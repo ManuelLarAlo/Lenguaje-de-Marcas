@@ -1,0 +1,84 @@
+img {
+    width: 10%;
+}
+
+header {
+    width: 100%;
+    background-color: orange;
+}
+
+.container {
+    box-sizing: content-box;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(35, 87, 119);
+}
+
+section p {
+    width: 60%;
+    margin: auto;
+}
+
+footer {
+    background-color: rgb(82, 123, 177);
+    color: white;
+}
+
+section li {
+    display: inline;
+    background-color: orange;
+    border: 10px solid;
+    border-color: orange;
+    margin-left:20px;
+    border-radius: 8px;
+    color: white;
+}
+
+nav {
+    background-color: orange;
+}
+
+nav ul {
+    width: 100%;
+    display: inline-block;
+}
+
+nav li {
+    width: 100%;
+    list-style-type: none;
+}
+
+nav a[href="#about"] {
+    float: left;
+    width: 47.5%;
+    margin-left: 2.5%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+nav a[href="#skills"] {
+    float: left;
+    width: 47.5%;
+    margin-left: 2.5%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+nav li :hover {
+    background-color: blue;
+    border: 20px solid;
+    border-color: blue;
+}

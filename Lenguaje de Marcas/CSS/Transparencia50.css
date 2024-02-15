@@ -1,0 +1,4 @@
+li::after {
+    content: "👽";
+    padding-left: 3px;
+}

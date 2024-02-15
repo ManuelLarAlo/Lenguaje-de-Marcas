@@ -1,0 +1,6 @@
+.shadow-example {
+    box-shadow: 10px 10px 5px black;
+    width: 500px;
+    margin: auto;
+    height: 100%;
+}
