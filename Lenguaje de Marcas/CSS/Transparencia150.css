@@ -3,7 +3,7 @@
     background-color: brown;
 }
 
-.hg_footer {
+.hg__footer {
     grid-area: footer;
     background-color: aquamarine;
 }
