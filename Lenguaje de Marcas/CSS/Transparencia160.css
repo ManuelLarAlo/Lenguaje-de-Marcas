@@ -1,0 +1,11 @@
+* {
+    animation: cambiarColor 2s;
+}
+@keyframes cambiarColor {
+    from {
+        background-color: red;
+    }
+    to {
+        background-color: blue;
+    }
+}

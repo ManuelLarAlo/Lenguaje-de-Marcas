@@ -1,0 +1,12 @@
+@keyframes cambiarColor {
+    from {
+        background-color: red;
+    }
+    to {
+        background-color: blue;
+    }
+}
+.First {
+    animation: cambiarColor 2s infinite;
+    animation-delay: 1s;
+}
